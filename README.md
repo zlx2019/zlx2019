@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 Zero9501
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlx2019&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&&count_private=trueicon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=synthwave" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlx2019&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&count_private=true&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=synthwave" /> </div>
