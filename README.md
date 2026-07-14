@@ -17,7 +17,6 @@
 - 🦀 Mostly writing **Rust**, **Go** and **Java**, with some C/C++, Python and Zig
 - 🔭 Into systems programming, network services and terminal tooling
 - ⚙️ Daily drivers: Neovim · Alacritty · Nushell
-- 😴 The man is lazy.
 
 ## 🛠️ Tech Stack
 
